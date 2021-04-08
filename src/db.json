@@ -1,0 +1,237 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Sandeep Raj ",
+            "role": "User",
+            "password": "Sandeep@123",
+            "username": "Sandeep ",
+            "email": "Sandeep@gmail.com",
+            "address": {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "92998-3874",
+                "geo": {
+                    "lat": "-37.3159",
+                    "lng": "81.1496"
+                }
+            },
+            "phone": "8978342140",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+            "balance": 19000,
+            "currentbalance": 10500,
+           
+            "account": "6789098783943",
+            "cType": "current",
+            "sType": "savings"
+        },
+        {
+            "id": 2,
+            "name": "Gayathri Devi",
+            "role": "User",
+            "password": "devi@33",
+            "username": "Gayathri",
+            "email": "gayathri.devi@gmail.com",
+            "address": {
+                "street": "Victor Plains",
+                "suite": "Suite 879",
+                "city": "Wisokyburgh",
+                "zipcode": "90566-7771",
+                "geo": {
+                    "lat": "-43.9509",
+                    "lng": "-34.4618"
+                }
+            },
+            "phone": "8867453421",
+            "website": "anastasia.net",
+            "company": {
+                "name": "Deckow-Crist",
+                "catchPhrase": "Proactive didactic contingency",
+                "bs": "synergize scalable supply-chains"
+            },
+            "balance": 11000,
+            "currentbalance": 1000,
+            "account": "567890987654",
+            "cType": "current",
+            "sType": "savings"
+        },
+        {
+            "id": 3,
+            "name": "Devika",
+            "role": "User",
+            "password": "devikaa@129",
+            "username": "Devika",
+            "email": "devika@gmail.com",
+            "address": {
+                "street": "Douglas Extension",
+                "suite": "Suite 847",
+                "city": "McKenziehaven",
+                "zipcode": "59590-4157",
+                "geo": {
+                    "lat": "-68.6102",
+                    "lng": "-47.0653"
+                }
+            },
+            "phone": "7093089622",
+            "website": "ramiro.info",
+            "company": {
+                "name": "Romaguera-Jacobson",
+                "catchPhrase": "Face to face bifurcated interface",
+                "bs": "e-enable strategic applications"
+            },
+            "balance": 2300,
+            "currentbalance": 2500,
+            "account": "456789098756",
+            "cType": "current",
+            "sType": "savings"
+        }
+    ],
+    "admin": [
+        {
+            "id": 1,
+            "name": "Surya ",
+            "password": "Surya@123",
+            "username": "Surya Teja",
+            "email": "Surya@gmail.com",
+            "address": {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "92998-3874",
+                "geo": {
+                    "lat": "-37.3159",
+                    "lng": "81.1496"
+                }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+            "balance": 100,
+            "currentbalance": 1000,
+            "cType": "current",
+            "sType": "savings"
+        },
+        {
+            "id": 2,
+            "name": "Charishma",
+            "password": "Charishma@123",
+            "username": "Cherry",
+            "email": "Charishma@gmail.com",
+            "address": {
+                "street": "Victor Plains",
+                "suite": "Suite 879",
+                "city": "Wisokyburgh",
+                "zipcode": "90566-7771",
+                "geo": {
+                    "lat": "-43.9509",
+                    "lng": "-34.4618"
+                }
+            },
+            "phone": "010-692-6593 x09125",
+            "website": "anastasia.net",
+            "company": {
+                "name": "Deckow-Crist",
+                "catchPhrase": "Proactive didactic contingency",
+                "bs": "synergize scalable supply-chains"
+            },
+            "balance": 100,
+            "currentbalance": 1000,
+            "cType": "current",
+            "sType": "savings"
+        },
+        {
+            "id": 3,
+            "name": "Neshna",
+            "password": "Neshna@123",
+            "username": "Neshna",
+            "email": "Neshna@gmail.com",
+            "address": {
+                "street": "Douglas Extension",
+                "suite": "Suite 847",
+                "city": "McKenziehaven",
+                "zipcode": "59590-4157",
+                "geo": {
+                    "lat": "-68.6102",
+                    "lng": "-47.0653"
+                }
+            },
+            "phone": "1-463-123-4447",
+            "website": "ramiro.info",
+            "company": {
+                "name": "Romaguera-Jacobson",
+                "catchPhrase": "Face to face bifurcated interface",
+                "bs": "e-enable strategic applications"
+            },
+            "balance": 2900,
+            "currentbalance": 300,
+            "cType": "current",
+            "sType": "savings"
+        },
+        {
+            "id": 4,
+            "name": "Lakshmi",
+            "password": "Lakshmi@123",
+            "username": "Lakshmi",
+            "email": "Lakshmi@gmail.com",
+            "address": {
+                "street": "Hoeger Mall",
+                "suite": "Apt. 692",
+                "city": "South Elvis",
+                "zipcode": "53919-4257",
+                "geo": {
+                    "lat": "29.4572",
+                    "lng": "-164.2990"
+                }
+            },
+            "phone": "493-170-9623 x156",
+            "website": "kale.biz",
+            "company": {
+                "name": "Robel-Corkery",
+                "catchPhrase": "Multi-tiered zero tolerance productivity",
+                "bs": "transition cutting-edge web services"
+            },
+            "balance": 100,
+            "currentbalance": 1000,
+            "cType": "current",
+            "sType": "savings"
+        },
+        {
+            "id": 5,
+            "name": "Kumar swami ",
+            "username": "Kumar",
+            "email": "kumarswami@gmail.com",
+            "password": "Kumar@123",
+            "address": {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "92998-3874",
+                "geo": {
+                    "lat": "-37.3159",
+                    "lng": "81.1496"
+                }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+            "balance": 1700,
+            "currentbalance": 1000,
+            "cType": "current",
+            "sType": "savings"
+        }
+    ]
+}
